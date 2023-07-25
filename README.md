@@ -1,5 +1,5 @@
 # Astar_Manhattan_puzzle_game
-# This is an A* puzzle game, can be solved manually or automatically using Manhattan heuristic algorithm
+## This is an A* puzzle game, can be solved manually or automatically using Manhattan heuristic algorithm
 
 
 
