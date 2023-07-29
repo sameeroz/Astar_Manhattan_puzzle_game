@@ -1,5 +1,5 @@
 # Astar Manhattan puzzle game
-### This is an A* puzzle game, can be played manually or solved automatically using A* Manhattan heuristic algorithm
+### This is an AI puzzle game, can be played manually or solved automatically using A* Manhattan heuristic algorithm
 
 
 # Screenshots
